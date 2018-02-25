@@ -23,7 +23,7 @@ Tested with [BrowserStack <img src="https://dgzoq9b5asjg1.cloudfront.net/product
   <gltf-viewer src="demo/duck.gltf" interactive></gltf-viewer>
 ```
 
-[See the component in action](https://avgp.github.io/gltf-viewer).
+[See the component in action](https://picaosgeo.github.io/gltf-viewer).
 
 ## Usage
 
